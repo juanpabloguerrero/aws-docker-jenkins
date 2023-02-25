@@ -1,3 +1,3 @@
 # aws pruebas
 Test
-Tercera prueba
+Tercera prueba desde la consola
